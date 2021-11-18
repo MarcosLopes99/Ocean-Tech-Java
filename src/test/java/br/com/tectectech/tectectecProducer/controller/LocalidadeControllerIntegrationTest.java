@@ -1,4 +1,4 @@
-package br.com.tectectech.tectectecProducer.controller;
+/*package br.com.tectectech.tectectecProducer.controller;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -81,4 +81,4 @@ public class LocalidadeControllerIntegrationTest {
 				.andExpect(status().isNoContent());
 	}
 	
-}
+}*/
